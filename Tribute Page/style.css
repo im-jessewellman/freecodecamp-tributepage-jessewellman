@@ -1,0 +1,22 @@
+.body {
+    text-align: center;
+    background-color: #FAF9F6;
+    font-family: sans-serif;
+}
+
+.profile_picture {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    border-radius: 50%;
+  }
+
+  .info {
+      margin-right: 20%;
+      margin-left: 20%;
+  }
+
+  .article {
+      text-align: left;
+  }
